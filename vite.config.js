@@ -1,9 +1,8 @@
-/** @type {import('vite').UserConfig} */
+import { defineConfig } from 'vite'
+import { svelte } from '@sveltejs/vite-plugin-svelte'
 
-import { sveltekit } from "@sveltejs/kit/vite";
-
-const config = {
-  plugins: [sveltekit()]   
-};
-
-export default config;
+// https://vitejs.dev/config/
+export default defineConfig({
+  base: '/curriculum/',
+  plugins: [svelte()]
+})

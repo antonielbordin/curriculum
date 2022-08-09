@@ -1,20 +1,18 @@
 {
   "name": "antonielbordin-curriculum",
-	"version": "0.0.1",
   "private": true,
-  "license": "MIT",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite dev",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy-gh-pages": "rm -rf docs && vite build && touch build/.nojekyll && cp -r build docs"
+    "deploy": "npx gh-pages -d dist"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "next",
-    "@sveltejs/kit": "next",
-    "gh-pages": "^4.0.0",
-    "svelte": "^3.46.0",
-    "vite": "3.0.0"
+    "@sveltejs/vite-plugin-svelte": "next",
+    "svelte": "^3.44.0",
+    "vite": "^2.9.9",
+    "gh-pages": "^4.0.0"
   }
 }

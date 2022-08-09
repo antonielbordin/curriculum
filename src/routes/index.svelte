@@ -50,7 +50,7 @@
         </p>
       </section>
       <section class="action">
-        <span class="btn" on:click={downloadPDF}>Baixar Versão PDF</span>
+        <a href="https://antonielbordin.github.io/curriculum/curriculum-official.pdf" target="_blank" class="btn">Baixar Versão PDF</a>
       </section>
       <section class="contact">
         <h1>CONTATO</h1>

@@ -15,7 +15,7 @@
       justify-content: center;
       width: 100%;
       height: 200px;
-      background: #f7f7f7 url("bg-header.png") no-repeat center;
+      background: #f7f7f7 url("../bg-header.png") no-repeat center;
     }
 
     #header h1 {

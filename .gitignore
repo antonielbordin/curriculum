@@ -8,15 +8,19 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
-
-*.local
 node_modules
+node_modules/*
+/node_modules
 /build
 /package
 package
 package-lock.json
+dist
+dist-ssr
+
+*.local
+
+
 
 # Editor directories and files
 .vscode/*

@@ -5,11 +5,27 @@
         <h1> EXPERIÊNCIAS  </h1>
         <span class="triangle"></span>
     </section>
+
+    <section class="box">
+        <div class="box-period">
+            <span class="mark two"></span>
+            <p class="cTextBold">2022 <span class="cTextNoBold">/</span> Atual</p>
+        </div>
+        <div class="box-corp">
+            <p class="cTextBold">DIGITALDOC</p>
+            <p>Programador Full-Stack</p>
+        </div>
+        <div class="box-activity">
+            <p>Desenvolvimento web, Api Rest de back-end em C#, Integração
+            com banco de dados SQL Server, Postgres e na manipulação de
+            dados font-end VueJS</p>
+        </div>
+    </section>
     
     <section class="box">
         <div class="box-period">
             <span class="mark one"></span>
-            <p class="cTextBold">2020 <span class="cTextNoBold">/</span> Atual</p>
+            <p class="cTextBold">2020 <span class="cTextNoBold">/</span> 2022</p>
         </div>
         <div class="box-corp">
             <p class="cTextBold">NINFA INDUSTRIA DE ALIMENTOS</p>

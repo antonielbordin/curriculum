@@ -12,9 +12,9 @@
       de sistemas e soluções voltadas para a web.
     </p>
     <p> 
-      Formado em Sistemas de Informação pela UFMS e licencia 
+      Formado em Sistemas de Informação pela UFMS e licenciado 
       em Matemática pela FAEL. Atualmente como Full Stack 
-      Web (PHP, MySQL, Oracle, HTML, CSS, Js, Svelte, VueJS, 
+      Web (PHP, MySQL, Oracle, HTML, CSS, JS, Svelte, VueJS, 
       entre outras tecnologias).
     </p>
 
@@ -27,7 +27,7 @@
     </p>
   </section>
   <section class="action">
-    <a href="https://antonielbordin.github.io/curriculum/official.pdf" target="_blank" class="btn">Baixar Versão PDF</a>
+    <a href="https://antonielbordin.github.io/curriculum/oficial.pdf" target="_blank" class="btn">Baixar Versão PDF</a>
   </section>
   <section class="contact">
     <h1>CONTATO</h1>
